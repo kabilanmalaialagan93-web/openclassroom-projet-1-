@@ -68,4 +68,4 @@ writer.writerow([
 
 file.close()
 
-print("Scraping terminé")
+print("Scraping terminé dans le fichier product.csv")
